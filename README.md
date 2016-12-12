@@ -1,2 +1,2 @@
-# Kenbot
+# KenBot
 CNN Powered GoPiGo
