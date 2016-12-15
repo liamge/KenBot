@@ -1,4 +1,4 @@
-# Kenbot
+# KenBot
 CNN Powered GoPiGo
 
 Current to-dos:
