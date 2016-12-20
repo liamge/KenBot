@@ -1,6 +1,0 @@
-Pip
-Virtualenv
-
-Download dependencies
-
-Start working on data acquisition
