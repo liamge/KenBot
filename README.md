@@ -1,7 +1,10 @@
 # KenBot
 TODO: Write a project description
 ## Installation
-TODO: Describe the installation process
+User side installation instructions are as follows:
+ - Optional: Make a virtual environment
+ - `sudo pip install -r requirements.txt`
+ - Or `sudo pip install keras, theano`
 ## Usage
 TODO: Write usage instructions
 ## Contributing
