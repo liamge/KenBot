@@ -1,8 +1,8 @@
 # KenBot
-CNN Powered GoPiGo
+##CNN Powered GoPiGo
 
-Current to-dos:
- - Pip
- - Virtualenv
- - Install deps
- - Data acquisition
+##Current to-dos:
+ [] Pip
+ [] Virtualenv
+ [] Install deps
+ [] Data acquisition
