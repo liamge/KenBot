@@ -8,6 +8,8 @@ User side installation instructions are as follows:
 
 ## Usage
 TODO: Write usage instructions
+TODO: Write command line utilities for sshing and activating programs
+(i.e. aliases)
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
