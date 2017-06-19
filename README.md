@@ -1,5 +1,5 @@
 # KenBot
-Self-driving [Go Pi Go](https://www.dexterindustries.com/gopigo/)
+Self-driving [Go Pi Go](https://www.dexterindustries.com/gopigo/) using the Python API and a Convolutional NN built in Tensorflow
 
 ## Installation
 User side installation instructions are as follows:
